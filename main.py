@@ -7,17 +7,11 @@ from FloorplanToBlenderLib import (
     dialog,
     floorplan,
     stacking,
-)  # floorplan to blender lib
+)  # floorplan to blender lib 
+
 import os
 
-"""
-Create Blender Project from floorplan
-This file contains a simple example implementation of creations of 3d models from
-floorplans. You will need blender and an image of a floorplan to make this work.
 
-FloorplanToBlender3d
-Copyright (C) 2022 Daniel Westberg
-"""
 
 
 def create_blender_project(data_paths):
@@ -68,9 +62,9 @@ def create_blender_project(data_paths):
 
 if __name__ == "__main__":
     """
-    Do not change variables in this file but rather in ./config.ini or ./FloorplanToBlenderLib/const.py
+
     """
-    dialog.figlet()
+    
     image_path = ""
     blender_install_path = ""
     data_folder = const.BASE_PATH
@@ -184,5 +178,3 @@ if __name__ == "__main__":
 
     print("")
     print("Done, Have a nice day!")
-
-    dialog.end_copyright()
