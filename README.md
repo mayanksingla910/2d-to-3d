@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Sarthak - [sarthakbansal131@gmail.com.com](mailto:sarthakbansal131@gmail.com)
+Mayank - [email](mailto:singlamayank10@gmail.com)
 
 Project Link: [https://github.com/phoenix-xd/2d-to-3d](https://github.com/phoenix-xd/2d-to-3d)
 
