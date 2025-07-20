@@ -4,7 +4,7 @@ First off, thank you for considering contributing to the 2D Blueprint to 3D Mode
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold our Code of Conduct. Please report unacceptable behavior to [jayant1554@github.com](mailto:jayant1554@github.com).
+By participating in this project, you are expected to uphold our Code of Conduct. Please report unacceptable behavior to [singlamayank10@github.com](mailto:singlamayank10@github.com).
 
 ## How Can I Contribute?
 
