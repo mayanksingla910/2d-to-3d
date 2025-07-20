@@ -10,8 +10,8 @@ By participating in this project, you are expected to uphold our Code of Conduct
 
 ### Reporting Bugs
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/jayant1554/2d_blueprint_to_3d_model/issues).
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/jayant1554/2d_blueprint_to_3d_model/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/mayanksingla910/2d-to-3d/issues).
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/mayanksingla910/2d-to-3d/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
 ### Suggesting Enhancements
 
